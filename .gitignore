@@ -1,0 +1,14 @@
+.idea
+out
+*.iml
+*.bat
+log
+target
+.git
+storage
+logs
+.gradle
+build
+gradle
+gradlew
+
