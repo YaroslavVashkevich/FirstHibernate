@@ -1,1 +1,1 @@
-# FirstHibernate
+# Hibernate
