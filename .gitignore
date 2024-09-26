@@ -1,14 +1,14 @@
 .idea
 out
 *.iml
-*.bat
 log
+*.log
 target
 .git
 storage
 logs
 .gradle
 build
-gradle
-gradlew
+
+
 
